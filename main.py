@@ -28,5 +28,3 @@ pass_1 = word_1.capitalize() + word_2.capitalize() + word_3.capitalize() + word_
 pass_2 = pass_1 + random.choice(nums) + random.choice(nums) + random.choice(nums) + random.choice(nums)
 
 print(pass_2)
-
-testerino
